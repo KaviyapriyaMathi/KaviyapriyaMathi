@@ -68,24 +68,24 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
 
 #### Data Visualization & Reporting
-![Power BI](https://img.shields.io/badge/Power%20BI-white?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-white?style=flat&logo=tableau&logoColor=blue)
-![Excel](https://img.shields.io/badge/MS%20Excel-white?style=flat&logo=microsoft-excel&logoColor=green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-white?style=flat&logo=seaborn&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-blue?style=flat&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 
 #### Web Scraping
-![Selenium](https://img.shields.io/badge/Selenium-white?style=flat&logo=selenium&logoColor=black)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-white?style=flat&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-white?style=flat&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-gray?style=flat&logoColor=white)
 
 #### Dev Tools & Platforms
-![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=black)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=flat&logo=visual-studio-code&logoColor=blue)
-![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=orange)
-![N8N](https://img.shields.io/badge/N8N-white?style=flat&logoColor=black)
-![Amundsen](https://img.shields.io/badge/Amundsen-white?style=flat&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-orange?style=flat&logo=n8n&logoColor=white)
+![Amundsen](https://img.shields.io/badge/Amundsen-blue?style=flat&logoColor=white)
 
 ---
 
