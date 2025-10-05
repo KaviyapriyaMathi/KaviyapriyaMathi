@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+## About Me
 - Analytical and detail-oriented **Data Analyst** with 1 year of experience in **ETL, EDA, database management, statistical analysis, and REST API development**.  
 - Proficient in **Python, SQL, and MongoDB**, with hands-on experience in **BI tools** such as Tableau, Power BI, and Excel.  
 - Skilled in **building dashboards, developing predictive models, and delivering actionable insights** that drive business value.  
@@ -46,7 +46,7 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,10 +62,10 @@
 ![PyWin32](https://img.shields.io/badge/PyWin32-gray?style=flat&logo=pywin32)
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=green)
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=blue)
 
 #### Data Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
@@ -75,29 +75,29 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 
 #### Web Scraping
-![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-white?style=flat&logo=selenium&logoColor=blue)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-gray?style=flat&logoColor=white)
 
 #### Dev Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-white?style=flat&logo=visual-studio-code&logoColor=blue)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-orange?style=flat&logo=n8n&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-white?style=flat&logo=n8n&logoColor=orange)
 ![Amundsen](https://img.shields.io/badge/Amundsen-blue?style=flat&logoColor=white)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaviyapriyamathi&title=Commits,Repositories,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaviyapriyamathi&title=Commits,PullRequest,Repositories,Followers,Stars&theme=tokyonight&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](linkedin.com/in/kaviya-priya-mathiyazhagan-666820225/)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:kaviyapriyamathiyazhagan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-priya-mathiyazhagan-666820225/)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:kaviyapriyamathiyazhagan@gmail.com)
 ---
 
 ✨ *“Data is the new oil — but insights are the spark that makes it valuable.”*  
